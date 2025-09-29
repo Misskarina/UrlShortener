@@ -24,3 +24,18 @@ A lightweight Java-based URL shortening service that allows users to create shor
 - Java 11 or higher
 - Maven 3.6+
 
+# UrlShortener
+
+A simple Java-based URL shortening service that allows you to create short, shareable links for long URLs.
+
+## API Endpoints
+
+### POST `/api/shorten`
+
+Shorten a given URL.
+
+**Request Body:**
+
+{
+  "url": "https://www.example.com"
+}
