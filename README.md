@@ -39,6 +39,7 @@ Shorten a given URL.
 {
   "url": "https://www.example.com"
 }
+
 **Response:**
 
 {
