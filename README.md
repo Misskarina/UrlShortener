@@ -39,3 +39,8 @@ Shorten a given URL.
 {
   "url": "https://www.example.com"
 }
+**Response:**
+
+{
+  "shortUrl": "http://localhost:8080/abc123"
+}
