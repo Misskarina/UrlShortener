@@ -1,5 +1,4 @@
 # UrlShortener
-# UrlShortener
 
 A lightweight Java-based URL shortening service that allows users to create short, shareable links for long URLs.
 
